@@ -1,0 +1,1 @@
+# My solution to the Skyscanner x Forage Frontend Job simulation
